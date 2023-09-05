@@ -1,8 +1,41 @@
-# React + Vite
+# CATAPP - Cat APP' React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Random Memes cat generator
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#TechnologiesUsed)
+- [Contact](#Contact)
+
+
+
+## Getting Started
+
+### Prerequisites
+
+Before you can run CATAPP, make sure you have the following software installed on your machine:
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime environment
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) - Package manager for Node.js
+
+### Installation
+
+1. Clone the CATAPP repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/catapp.git
+
+### Usage
+
+```python
+npm start
+# or
+yarn start
+```
+
+## Contact
+If you have any questions or suggestions, feel free to contact us at brunogrighes@gmail.com.
