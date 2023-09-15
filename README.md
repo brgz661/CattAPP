@@ -38,4 +38,4 @@ yarn start
 ```
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at brunogrighes@gmail.com.
+If you have any questions or suggestions, feel free to contact at brunogrighes@gmail.com.
