@@ -27,7 +27,7 @@ Before you can run CATAPP, make sure you have the following software installed o
 1. Clone the CATAPP repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/catapp.git
+   git clone https://github.com/brunogrighes/CattAPP.git
 
 ### Usage
 
